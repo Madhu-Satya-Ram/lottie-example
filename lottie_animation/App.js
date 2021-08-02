@@ -129,6 +129,7 @@ export default class App extends React.Component {
           onAnimationFinish={() => {
             this.setState({hideButtons: true});
           }}
+
           // autoPlay={false}
         />
 
